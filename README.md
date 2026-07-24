@@ -6,69 +6,81 @@
 - Fatimah
 
 **Members**
-- Asma Alzahrani
-- Safia Farhan Al-Mutairi
 - Rowan Fayea Al-Ziyadi
+- Safia Farhan Al-Mutairi
+- Asma Alzahrani
 
-> Note: Our team has four members with the instructor's approval.
+> Note: Our team consists of four members with the instructor's approval.
+
+---
 
 ## Repository Structure
 
 - PacketTracer/
+- Report/
 - Screenshots/
 
+---
 
-## Project Progress
+## Phase 1 Progress
 
 ### Completed
 
 - GitHub repository created.
-- All team members were added.
+- All team members joined the repository.
 - Cisco Packet Tracer installed on all computers.
 - Installation screenshots uploaded.
-- Project folders prepared.
+- Network topology created.
+- Routers, switches, and PCs connected.
+- Router model changed to ISR4331 after testing different options.
+- IP addresses assigned to all devices.
+- Router interfaces configured.
+- Static routing configured.
+- Network connectivity tested successfully using Ping.
 
-### Current Tasks
+---
 
-- Create the network topology.
-- Connect all devices.
-- Configure IP addresses.
-- Configure router interfaces.
-- Configure static routing.
-- Test the network.
-- Prepare the report.
+## Team Members Contribution
 
-## Task Distribution
+### Fatimah (Team Leader)
+
+- Created and organized the GitHub repository.
+- Reviewed the project during different stages.
+- Helped with router configuration.
+- Performed the final testing before submission.
 
 ### Rowan Fayea Al-Ziyadi
-- Create the Packet Tracer topology.
-- Organize the project files.
-- Review the final work.
 
-### Asma Alzahrani
-- Connect routers, switches, and PCs.
-- Check cable connections.
+- Configured IP addresses.
+- Updated the README file.
+- Configured routers.
+- Helped solve configuration problems during the project.
 
 ### Safia Farhan Al-Mutairi
-- Configure IP addresses.
-- Set the default gateways.
 
-### Fatimah
-- Configure router interfaces.
-- Configure static routing.
-- Test connectivity.
+- Started building the Packet Tracer project.
+- Created the second LAN.
+- Helped prepare the network topology.
 
+### Asma Alzahrani
 
+- Installed Cisco Packet Tracer.
+- Uploaded the first project files.
+- Created the first LAN.
+- Helped prepare the project from the beginning.
+
+---
 
 ## Working Guidelines
 
-- Everyone works on her assigned task.
-- Each update should have its own commit.
-- Use clear commit messages.
-- Do not overwrite another member's work without discussing it first.
-- Review the project before uploading major changes.
+- Every member participates in the project work.
+- Every update should have its own commit.
+- Use simple and meaningful commit messages.
+- Team members help each other whenever a problem appears.
+- Review the project before pushing major updates.
 
+---
 
-## Next Step
+## Current Status
 
-After finishing the topology and configuration, the team will test the communication between all networks, review the project files, and complete the Phase 1 report before submission.
+The network has been configured successfully and communication between the devices has been verified using Ping. The remaining work is reviewing the report and preparing the final submission.
