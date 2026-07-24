@@ -12,15 +12,12 @@
 
 > Note: Our team consists of four members with the instructor's approval.
 
----
-
 ## Repository Structure
 
 - PacketTracer/
 - Report/
 - Screenshots/
 
----
 
 ## Phase 1 Progress
 
@@ -37,8 +34,6 @@
 - Router interfaces configured.
 - Static routing configured.
 - Network connectivity tested successfully using Ping.
-
----
 
 ## Team Members Contribution
 
@@ -69,8 +64,6 @@
 - Created the first LAN.
 - Helped prepare the project from the beginning.
 
----
-
 ## Working Guidelines
 
 - Every member participates in the project work.
@@ -79,7 +72,6 @@
 - Team members help each other whenever a problem appears.
 - Review the project before pushing major updates.
 
----
 
 ## Current Status
 
