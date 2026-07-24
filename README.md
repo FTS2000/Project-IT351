@@ -3,24 +3,20 @@
 ## Team Members
 
 **Team Leader**
-- Rowan Fayea Al-Ziyadi
+- Fatimah
 
 **Members**
 - Asma Alzahrani
 - Safia Farhan Al-Mutairi
-- Fatimah
+- Rowan Fayea Al-Ziyadi
 
 > Note: Our team has four members with the instructor's approval.
-
----
 
 ## Repository Structure
 
 - PacketTracer/
-- Report/
 - Screenshots/
 
----
 
 ## Project Progress
 
@@ -42,8 +38,6 @@
 - Test the network.
 - Prepare the report.
 
----
-
 ## Task Distribution
 
 ### Rowan Fayea Al-Ziyadi
@@ -64,7 +58,7 @@
 - Configure static routing.
 - Test connectivity.
 
----
+
 
 ## Working Guidelines
 
@@ -74,7 +68,6 @@
 - Do not overwrite another member's work without discussing it first.
 - Review the project before uploading major changes.
 
----
 
 ## Next Step
 
